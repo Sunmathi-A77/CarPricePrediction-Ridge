@@ -1,4 +1,4 @@
-==> 2025-10-09 20:52:43 <==
+==> 2025-10-10 22:06:32 <==
 # cmd: C:\Users\Sunmathi A\anaconda3\Scripts\conda-script.py create -p myvenv python=3.10
 # conda version: 25.5.1
 +defaults/noarch::pip-25.2-pyhc872135_0
@@ -10,7 +10,7 @@
 +defaults/win-64::libzlib-1.3.1-h02ab6af_0
 +defaults/win-64::openssl-3.0.18-h543e019_0
 +defaults/win-64::python-3.10.18-h981015d_0
-+defaults/win-64::setuptools-78.1.1-py310haa95532_0
++defaults/win-64::setuptools-80.9.0-py310haa95532_0
 +defaults/win-64::sqlite-3.50.2-hda9a48d_1
 +defaults/win-64::tk-8.6.15-hf199647_0
 +defaults/win-64::ucrt-10.0.22621.0-haa95532_0
