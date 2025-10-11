@@ -1,5 +1,11 @@
 # Car Price Prediction Using Ridge and OLS Regression
 
+## 🚗 Car Price Prediction App
+
+Predict the price of a car (in ₹k) using multiple features with Ridge Regression.
+
+Live App: https://ridge-carpriceprediction.streamlit.app/
+
 ## Project Overview
 
 This project aims to predict car prices (price_k) using multiple features such as mileage, engine size, horsepower, torque, doors, airbags, weight, fuel efficiency, brand score, and luxury index.
